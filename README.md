@@ -34,3 +34,11 @@ API's USED:
 3.Twitter API's
 
 The code and respective files are added in the repository.
+
+note:when giving the input, give the input username and the no.of tweets in quotes
+
+example:
+
+enter the userID'RADWIMPS'
+
+tweets between 20-200'50'
