@@ -1,6 +1,5 @@
 # TWITTER PROFILE EVALUATOR
-# CALEB MERIGA
--U56867008
+# CALEB MERIGA-U56867008
 
 # USER STORIES!!!!
 
@@ -37,7 +36,7 @@ The code and respective files are added in the repository.
 
 note:when giving the input, give the input username and the no.of tweets in quotes
 
-# example of input  (twitter user id and Number of tweets) :
+# example of input parameters(twitter user id and Number of tweets) :
 
 enter the userID'RADWIMPS'
 
