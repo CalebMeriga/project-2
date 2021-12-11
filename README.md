@@ -494,8 +494,8 @@ Score: 0.20000000298
 good
 mcaleb@cloudshell:~ (python-upload-312921)$ 
 
-**
-Citations**
+
+# Citations
 [1] https://www.freecodecamp.org/news/how-to-make-your-own-sentiment-analyzer-using-python-and-googles-natural-language-api-9e91e1c493e/
 [2]https://developer.twitter.com/en/docs/twitter-api
 [3]https://cloud.google.com/natural-language
