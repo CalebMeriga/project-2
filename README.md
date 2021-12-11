@@ -192,7 +192,7 @@ Movie "10 years remaining life" super special news
 https://t.co/TbM57CkYpx
 
 #RADWIMPS
-# 10 years remaining
+ 10 years remaining
 Tweet: RADWIMPS will be in charge of the gekitomo music for the movie     Years of Life  to be released in the spring of       The ban on super special video that uses gekitomo music has also been lifted   Movie     years remaining life  super special news    RADWIMPS      years remaining
 Score: 0.300000011921
 
@@ -494,3 +494,11 @@ Score: 0.20000000298
 ('the final score of this person is', 0.11)
 good
 mcaleb@cloudshell:~ (python-upload-312921)$ 
+
+
+#Citations
+[1] https://www.freecodecamp.org/news/how-to-make-your-own-sentiment-analyzer-using-python-and-googles-natural-language-api-9e91e1c493e/
+[2]https://developer.twitter.com/en/docs/twitter-api
+[3]https://cloud.google.com/natural-language
+[4]https://cloud.google.com/translate
+[5]https://cloud.google.com/run
