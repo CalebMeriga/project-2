@@ -1,8 +1,8 @@
 # TWITTER PROFILE EVALUATOR
-CALEB MERIGA
+# CALEB MERIGA
 -U56867008
 
-#USER STORIES!!!!
+# USER STORIES!!!!
 
 1.I Want to be safe.
 
@@ -10,7 +10,7 @@ CALEB MERIGA
 
 3.I like to see if a person is genuine. 
 
-#MVP[Minimum Viable Product]:
+# MVP[Minimum Viable Product]:
 
 The product "TWITTER PROFILE EVALUATOR" is a Python program which will do the following
 
@@ -26,7 +26,7 @@ The product "TWITTER PROFILE EVALUATOR" is a Python program which will do the fo
 
 ------> Based on the average score the output will be "GOOD" or "OK" or "BAD"
 
-API's USED:
+# API's USED:
 1.Google Cloud Natural Language.
 
 2.Google cloud Translate.
@@ -37,7 +37,7 @@ The code and respective files are added in the repository.
 
 note:when giving the input, give the input username and the no.of tweets in quotes
 
-example:
+# example of input  (twitter user id and Number of tweets) :
 
 enter the userID'RADWIMPS'
 
